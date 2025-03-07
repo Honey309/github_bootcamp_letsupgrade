@@ -1,0 +1,13 @@
+// add basic style to the ::-webkit-progress-value
+
+::-webkit-progress-value {
+  background-color: #f00;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #f00;
+
+}
+ green progress::-webkit-progress-value {
+  background-color: rgb(255, 0, 251);
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgb(0, 255, 170);
+}
